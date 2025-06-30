@@ -17,11 +17,6 @@ Visual clarity - emoji feedback and clear status indicators
 Production-ready security - no compromises on cryptographic strength
 Cross-platform - runs anywhere Python runs
 
-🏃‍♂️ Quick Start
-bash# Clone the repository
-git clone https://github.com/yourusername/simple-password-generator.git
-cd simple-password-generator
-
 # Run the generator
 python password_generator.py
 💡 Usage Examples
